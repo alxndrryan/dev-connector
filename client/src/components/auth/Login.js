@@ -29,7 +29,7 @@ export const Login = ({ login, isAuthenticated }) => {
     <Fragment>
       <h1 className='large text-primary'>Sign In</h1>
       <p className='lead'>
-        <i className='fas fa-user'></i> Sing Into Your Account
+        <i className='fas fa-user'></i> Sign Into Your Account
       </p>
       <form className='form' onSubmit={(e) => onSubmit(e)}>
         <div className='form-group'>
