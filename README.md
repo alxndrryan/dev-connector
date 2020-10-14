@@ -20,13 +20,6 @@ such as Twitter, LinkedIn, and Facebook. Users can view their profile info on th
 - [GitHub REST API](https://docs.github.com/en/free-pro-team@latest/rest) - Make calls to integrate data with GitHub
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate,and display dates and times in JavaScript
 
-## Collaborators
-
-- [Michael Farrell](https://github.com/MFarrell242)
-- [Ryan Scott](https://github.com/ryanscott906)
-- [Justin Abreu](https://github.com/JGABREU2145) 
-- [Alexander Hogle](https://github.com/alxndryn)
-
 ## Future Development
 
 - Have user profile display pinned repositories instead of latest
