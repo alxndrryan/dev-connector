@@ -29,6 +29,8 @@ such as Twitter, LinkedIn, and Facebook. Users can view their profile info on th
 
 ![](client/public/devconexample2.png)
 
+![](client/public/devconexample1.png)
+
 ## Note
 
 This project was created from Brad Traversy's Udemy course, MERN Stack Front To Back: Full Stack React, Redux & Node.js.
