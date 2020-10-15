@@ -1,6 +1,6 @@
 # DevConnector
 
-[DevConnector Website](https://github.com/alxndryn/dev-connector)
+[DevConnector Website](https://secure-scrubland-55057.herokuapp.com/)
 
 ## Overview
 
